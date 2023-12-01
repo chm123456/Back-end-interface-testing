@@ -8,12 +8,12 @@ We mainly use Postman for interface testing. Postman is an interface testing too
 
 ## Login password correct
 
-![img](file:///C:\Users\CHENHO~1\AppData\Local\Temp\ksohtml24456\wps2.jpg) 
+![img](wps2.jpg) 
 
 ## Login password error
 
-![img](file:///C:\Users\CHENHO~1\AppData\Local\Temp\ksohtml24456\wps3.jpg) 
+![img](wps3.jpg) 
 
  
 
-![img](file:///C:\Users\CHENHO~1\AppData\Local\Temp\ksohtml24456\wps4.jpg) 
+![img](wps4.jpg) 
